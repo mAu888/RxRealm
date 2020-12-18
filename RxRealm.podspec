@@ -26,6 +26,6 @@ Pod::Spec.new do |s|
   s.frameworks = "Foundation"
   s.dependency "Realm", "~> 10.2"
   s.dependency "RealmSwift", "~> 10.2"
-  s.dependency "RxSwift", "~> 5.1"
-  s.dependency "RxCocoa", "~> 5.1"
+  s.dependency "RxSwift", " 6.0.0-rc.2"
+  s.dependency "RxCocoa", " 6.0.0-rc.2"
 end
